@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo (https://github.com/turusan-asak/kodluyoruzilkrepo/blob/main/odev.PNG)
 
 # Installiton
 
