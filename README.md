@@ -1,9 +1,9 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
-## Installiton
+# Installiton
 
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/turusan-asak/kodluyoruzilkrepo.git
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
