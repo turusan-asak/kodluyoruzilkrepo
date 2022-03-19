@@ -9,8 +9,8 @@ git clone https://github.com/turusan-asak/kodluyoruzilkrepo.git
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
-\n cd kodluyoruzilkrepo
-\n code .
+ cd kodluyoruzilkrepo
+ code .
 
 # Contributing 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
