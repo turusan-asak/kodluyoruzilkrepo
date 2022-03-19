@@ -16,4 +16,4 @@ code .
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # License
-MIT
+[MIT](https://github.com/turusan-asak/kodluyoruzilkrepo/blob/main/LICENSE)
